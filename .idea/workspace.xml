@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcd11a37-bd3a-47c3-a13c-d6e8cbeee6fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/MessageListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/MessageListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/JwtAuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/JwtAuthenticationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/WebSecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/WebSecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/TripController.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/TripController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/mapper/OrderInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/mapper/OrderInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/model/OrderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/model/OrderInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/OrderInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/OrderInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-service-api/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-service-api/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/Schedule.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/scooter-uc-sdk/target/" />
+    <ignored path="$PROJECT_DIR$/scooter-ws-server/target/" />
+    <ignored path="$PROJECT_DIR$/scooter-admin-server/target/" />
+    <ignored path="$PROJECT_DIR$/scooter-service-location-client/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/scooter-common/target/" />
+    <ignored path="$PROJECT_DIR$/scooter-uc-server/target/" />
+    <ignored path="$PROJECT_DIR$/scooter-service-location/target/" />
+    <ignored path="$PROJECT_DIR$/scooter-ws-sdk/target/" />
+    <ignored path="$PROJECT_DIR$/scooter-service-api/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/scooter_all$UnlockServiceTest_testUnlock.ic" NAME="UnlockServiceTest.testUnlock Coverage Results" MODIFIED="1535685682271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.scooter.ws.sdk.transfer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/scooter_all$ScoketTest_testUnlock.ic" NAME="ScoketTest.testUnlock Coverage Results" MODIFIED="1535089529261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.scooter.ws.sdk.transfer.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="44130880">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="factories" value="1" />
+          <entry key="java" value="945" />
+          <entry key="properties" value="2" />
+          <entry key="r277" value="1" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="76" />
+          <entry key="yaml" value="37" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="945" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="76" />
+          <entry key="YAML" value="37" />
+          <entry key="spring.factories" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="103" />
+          <entry key="java" value="19157" />
+          <entry key="r277" value="1" />
+          <entry key="txt" value="219" />
+          <entry key="xml" value="227" />
+          <entry key="yaml" value="72" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="19157" />
+          <entry key="PLAIN_TEXT" value="323" />
+          <entry key="SQL" value="8" />
+          <entry key="XML" value="219" />
+          <entry key="YAML" value="72" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/resources/application.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>put</find>
+      <find>get</find>
+      <find>unlockRequestBinding</find>
+      <find>lockRequestQueue</find>
+      <find>QUEUE_LOCK_RESPONSE</find>
+      <find>QUEUE_UNLOCK_REQUEST</find>
+      <find>session</find>
+      <find>8888</find>
+      <find>+ &quot;_test&quot;</find>
+      <find>;</find>
+      <find>userService</find>
+      <find>System.out.println</find>
+      <find>org.springframework.boot</find>
+      <find>trip</find>
+      <find>System.currentTime</find>
+      <find>updateByPrimaryKeySelective</find>
+      <find>BaseResultMap</find>
+      <find>selectUnfinishedTrip</find>
+      <find>pay</find>
+      <find>findReverseTrip</find>
+      <find>web</find>
+      <find>TopicExchange</find>
+      <find>QUEUE_LOCATION</find>
+      <find>private</find>
+      <find>ROUTING_KEY_LOCATION</find>
+      <find>Constants</find>
+      <find>&quot; + &quot;_test&quot;</find>
+      <find>extract(epoch from now())</find>
+      <find>order</find>
+      <find>SC_UNAUTHORIZED</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>+ &quot;_test&quot;;</replace>
+      <replace>+&quot;_test&quot;;</replace>
+      <replace>log.info</replace>
+      <replace>protected</replace>
+      <replace>Constant</replace>
+      <replace>&quot;</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/RiderInfoController.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/resources/ScooterIds.txt" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/WebSocketServerRunner.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/utils/Constants.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/configuration/MessageListener.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location-client/src/main/java/com/scooter/service/location/client/DefaultLocationClient.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location-client/src/main/java/com/scooter/service/location/client/autoconfigure/LocationClientAutoConfiguration.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location/src/main/java/com/scooter/service/location/controller/LocationController.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location/src/test/java/LocationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location/src/test/java/com/scooter/service/location/service/LocationServiceTest.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location/src/main/java/com/scooter/service/location/service/LocationService.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location/src/main/java/com/scooter/service/location/service/impl/LocationServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/mq/message/Location.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/model/ScooterStateInfo.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/pom.xml" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/configuration/RabbitMqConfig.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/service/RabbitMqService.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/Application.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/ScooterController.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/RabbitMqConfig.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/ScooterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/service/impl/MqServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/ScooterEndPoint.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/ScooterService.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location/src/main/java/com/scooter/service/location/configuration/MessageListener.java" />
+        <option value="$PROJECT_DIR$/scooter-ws-server/src/main/java/com/scooter/ws/server/configuration/MessageListener.java" />
+        <option value="$PROJECT_DIR$/scooter-service-location/pom.xml" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/UsernamePasswordAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/UploadCenterRunner.java" />
+        <option value="$PROJECT_DIR$/scooter-ws-server/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/scooter-service-location/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/mq/RabbitMqConstant.java" />
+        <option value="$PROJECT_DIR$/scooter-ws-server/src/test/java/com/scooter/ws/sdk/transfer/ScoketTest.java" />
+        <option value="$PROJECT_DIR$/scooter-ws-sdk/src/main/java/com/scooter/ws/sdk/AbstractChannelHandler.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/model/OrderInfo.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/OrderInfoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/OrderInfoService.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/PaymentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/mapper/OrderInfoMapper.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/resources/mapper/OrderInfoMapper.xml" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/MessageListener.java" />
+        <option value="$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/Schedule.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/JwtAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/WebSecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/TripController.java" />
+        <option value="$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/Constant.java" />
+        <option value="$PROJECT_DIR$/scooter-service-api/src/main/resources/application.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scooter-all" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scooter-all" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scooter-all" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scooter-all" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scooter-service-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scooter-service-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="scooter-service-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1284" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>Internationalization</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scooter-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scooter-all" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scooter-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scooter-all" type="462c0819:PsiDirectoryNode" />
+              <item name="scooter-service-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scooter-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scooter-all" type="462c0819:PsiDirectoryNode" />
+              <item name="scooter-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scooter-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scooter-all" type="462c0819:PsiDirectoryNode" />
+              <item name="scooter-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scooter-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scooter-all" type="462c0819:PsiDirectoryNode" />
+              <item name="scooter-service-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scooter-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="cons&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-common/src/main/java/com/scooter/common/Constant.java&#10;Cons&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-common/src/main/java/com/scooter/common/Constant.java&#10;Devi&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java&#10;orderInfoM&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/OrderInfoMapper.xml&#10;gen&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/generatorConfig.xml&#10;order&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/OrderInfoMapper.xml&#10;OrderInfoMapper&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/OrderInfoMapper.xml&#10;orderinfomapp&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/OrderInfoMapper.xml&#10;Order&#9;PSI&#9;JAVA://com.scooter.service.api.mapper.OrderInfoMapper&#10;AbstractChannelHandler&#9;PSI&#9;JAVA://com.scooter.ws.sdk.AbstractChannelHandler&#10;MqServiceImpl&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/service/impl/MqServiceImpl.java&#10;De&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java&#10;LocationServiceTe&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-location/src/test/java/com/scooter/service/location/service/LocationServiceTest.java&#10;Loc&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-common/src/main/java/com/scooter/common/mq/message/Location.java&#10;Scooterstat&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/ScooterStateInfoMapper.xml&#10;DeviceMan&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java&#10;dev&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java&#10;Rabbi&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/service/RabbitMqService.java&#10;message&#9;PSI&#9;JAVA://com.scooter.ws.server.configuration.MessageListener&#10;Message&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-location/src/main/java/com/scooter/service/location/configuration/MessageListener.java&#10;Const&#9;PSI&#9;JAVA://com.scooter.common.Constant&#10;Dev&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java&#10;de&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java&#10;scoo&#9;PSI&#9;JAVA://com.scooter.service.api.controller.ScooterController&#10;Sco&#9;PSI&#9;JAVA://com.scooter.ws.sdk.transfer.ScoketTest&#10;riderinfo&#9;PSI&#9;JAVA://com.scooter.service.api.controller.RiderInfoController&#10;RiderInfo&#9;PSI&#9;JAVA://com.scooter.service.api.model.RiderInfo&#10;ra&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-uc-server/src/main/java/com/scooter/uc/server/configuration/RabbitMqConfig.java&#10;Rabb&#9;PSI&#9;JAVA://com.scooter.uc.server.configuration.RabbitMqConfig&#10;application&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/application.yaml&#10;orderinfoM&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/OrderInfoMapper.xml&#10;tripco&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/java/com/scooter/service/api/controller/TripController.java&#10;trip&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/test/java/com/scooter/service/api/controller/TripControllerTest.java&#10;String&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-common/src/main/java/com/scooter/common/util/StringUtils.java&#10;paymentd&#9;PSI&#9;JAVA://com.scooter.service.api.mapper.PaymentDetailMapper&#10;paymentin&#9;PSI&#9;JAVA://com.scooter.service.api.mapper.PaymentInfoMapper&#10;con&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-common/src/main/java/com/scooter/common/Constant.java&#10;const&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-common/src/main/java/com/scooter/common/Constant.java&#10;Trip&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/TripInfoMapper.xml&#10;Time&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/java/com/scooter/service/api/service/TimeService.java&#10;TripInfo&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/TripInfoMapper.xml&#10;pass&#9;PSI&#9;JAVA://com.scooter.service.api.confiuration.security.UsernamePasswordAuthenticationProvider&#10;orderInfoMapper&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/OrderInfoMapper.xml&#10;TripInfoMapper&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/TripInfoMapper.xml&#10;tripInfoMapper&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/TripInfoMapper.xml&#10;tripInfo&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/java/com/scooter/service/api/model/TripInfo.java&#10;tripinfo&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/java/com/scooter/service/api/mapper/TripInfoMapper.java&#10;ScooterInfoMapper&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/ScooterInfoMapper.xml&#10;DictionaryMapper&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/DictionaryMapper.xml&#10;com&#9;FILE&#9;file://D:/workspace/Scooter/PJ_SRC/scooter-all/scooter-service-api/src/main/resources/mapper/CommonMapper.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536052079274" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../CPOS/cpos-parent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.scooter.service.location.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-ws-sdk\src\main\java\com\scooter\ws\sdk\service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.scooter.service.api.confiuration" />
+      <recent name="" />
+      <recent name="com.scooter.uc.server" />
+      <recent name="com.scooter.service.api" />
+      <recent name="com.scooter.ws.sdk.request" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-uc-server\src\main\resources" />
+      <recent name="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-uc-server" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.20454545" />
+  </component>
+  <component name="RunManager" selected="JUnit.ScoketTest.testValidateToken">
+    <configuration name="LocationServiceTest.testGetAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scooter-service-location" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scooter.service.location.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scooter.service.location.service" />
+      <option name="MAIN_CLASS_NAME" value="com.scooter.service.location.service.LocationServiceTest" />
+      <option name="METHOD_NAME" value="testGetAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScoketTest.testValidateToken" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scooter-ws-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scooter.ws.sdk.transfer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scooter.ws.sdk.transfer" />
+      <option name="MAIN_CLASS_NAME" value="com.scooter.ws.sdk.transfer.ScoketTest" />
+      <option name="METHOD_NAME" value="testValidateToken" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TripControllerTest.testUnlock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scooter-service-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scooter.service.api.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scooter.service.api.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.scooter.service.api.controller.TripControllerTest" />
+      <option name="METHOD_NAME" value="testUnlock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnlockServiceTest.testUnlock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="scooter-ws-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scooter.ws.sdk.transfer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.scooter.ws.sdk.transfer" />
+      <option name="MAIN_CLASS_NAME" value="com.scooter.ws.sdk.transfer.UnlockServiceTest" />
+      <option name="METHOD_NAME" value="testUnlock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application-api" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scooter-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scooter.service.api.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application-location" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="scooter-service-location" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scooter.service.location.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scooter.service.location.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application-uc" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scooter-uc-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scooter.uc.server.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application-ws" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="scooter-ws-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.scooter.ws.server.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Application-api" />
+      <item itemvalue="Spring Boot.Application-uc" />
+      <item itemvalue="Spring Boot.Application-ws" />
+      <item itemvalue="JUnit.TripControllerTest.testUnlock" />
+      <item itemvalue="JUnit.UnlockServiceTest.testUnlock" />
+      <item itemvalue="Spring Boot.Application-location" />
+      <item itemvalue="JUnit.LocationServiceTest.testGetAll" />
+      <item itemvalue="JUnit.ScoketTest.testValidateToken" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ScoketTest.testValidateToken" />
+        <item itemvalue="Spring Boot.Application-location" />
+        <item itemvalue="JUnit.LocationServiceTest.testGetAll" />
+        <item itemvalue="JUnit.UnlockServiceTest.testUnlock" />
+        <item itemvalue="JUnit.TripControllerTest.testUnlock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\zhang_qianshi\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-admin-server" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-admin-server" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-common" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-common" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-service-api" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-service-api" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-service-location" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-service-location" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-service-location-client" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-service-location-client" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-uc-sdk" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-uc-sdk" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-uc-server" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-uc-server" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-ws-sdk" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-ws-sdk" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-ws-server" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all\scooter-ws-server" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all" />
+          <option name="myCopyRoot" value="D:\workspace\Scooter\PJ_SRC\scooter-all" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd11a37-bd3a-47c3-a13c-d6e8cbeee6fa" name="Default Changelist" comment="" />
+      <created>1535079046233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535079046233</updated>
+      <workItem from="1535079047968" duration="48891000" />
+      <workItem from="1535426240246" duration="14384000" />
+      <workItem from="1535449496869" duration="7832000" />
+      <workItem from="1535520846438" duration="39429000" />
+      <workItem from="1535681099548" duration="2668000" />
+      <workItem from="1535685852586" duration="6850000" />
+      <workItem from="1535693077832" duration="8161000" />
+      <workItem from="1535703962174" duration="199000" />
+      <workItem from="1535704220098" duration="24554000" />
+      <workItem from="1536024269965" duration="17209000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1535104516686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1535104516687</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modify the lock/unlock request">
+      <created>1535363566256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535363566256</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add location mock service">
+      <created>1535441576525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535441576525</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add getRiderInfo interface if the rider login through refresh token">
+      <created>1535513060282</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1535513060283</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add getRiderInfo interface if the rider login through refresh token">
+      <created>1535513351582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535513351583</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1535521884461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1535521884462</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1535525649313</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1535525649313</updated>
+    </task>
+    <task id="LOCAL-00008" summary="解锁时创建订单与行程">
+      <created>1535622918491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1535622918492</updated>
+    </task>
+    <task id="LOCAL-00009" summary="解锁时创建订单与行程">
+      <created>1535623244743</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1535623244743</updated>
+    </task>
+    <task id="LOCAL-00010" summary="修改一下命名">
+      <created>1535679418223</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1535679418223</updated>
+    </task>
+    <task id="LOCAL-00011" summary="添加TOPIC模式">
+      <created>1535703703742</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1535703703742</updated>
+    </task>
+    <task id="LOCAL-00012" summary="添加TOPIC模式">
+      <created>1535704129377</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1535704129377</updated>
+    </task>
+    <task id="LOCAL-00013" summary="添加TOPIC模式">
+      <created>1535939070173</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1535939070183</updated>
+    </task>
+    <task id="LOCAL-00014">
+      <created>1535939585932</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1535939585932</updated>
+    </task>
+    <task id="LOCAL-00015" summary="后台增加位置信息更新到数据库的队列">
+      <created>1536029843012</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1536029843012</updated>
+    </task>
+    <task id="LOCAL-00016" summary="更新一下配置">
+      <created>1536041564755</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1536041564755</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UnlockServiceTest_testUnlock - 2018.08.31 at 11h 12m 42s.xml">
+      <configuration name="UnlockServiceTest.testUnlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnlockServiceTest_testUnlock - 2018.08.31 at 11h 12m 52s.xml">
+      <configuration name="UnlockServiceTest.testUnlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnlockServiceTest_testUnlock - 2018.08.31 at 11h 19m 40s.xml">
+      <configuration name="UnlockServiceTest.testUnlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnlockServiceTest_testUnlock - 2018.08.31 at 11h 19m 57s.xml">
+      <configuration name="UnlockServiceTest.testUnlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnlockServiceTest_testUnlock - 2018.08.31 at 11h 21m 44s.xml">
+      <configuration name="UnlockServiceTest.testUnlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UnlockServiceTest_testUnlock - 2018.08.31 at 15h 12m 05s.xml">
+      <configuration name="UnlockServiceTest.testUnlock" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LocationServiceTest_testGetAll - 2018.09.03 at 15h 16m 13s.xml">
+      <configuration name="LocationServiceTest.testGetAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LocationServiceTest_testGetAll - 2018.09.03 at 15h 17m 11s.xml">
+      <configuration name="LocationServiceTest.testGetAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoketTest_testValidateToken - 2018.09.04 at 14h 09m 43s.xml">
+      <configuration name="ScoketTest.testValidateToken" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ScoketTest_testValidateToken - 2018.09.04 at 14h 11m 18s.xml">
+      <configuration name="ScoketTest.testValidateToken" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="170177000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Web" order="4" side_tool="true" />
+      <window_info id="Designer" order="5" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2873016" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.35582823" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49761903" weight="0.5506135" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50238097" side_tool="true" weight="0.45092025" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.3297546" />
+      <window_info anchor="bottom" id="Message" order="7" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.4309816" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49920633" weight="0.5674847" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.5214724" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.3297546" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.49920633" visible="true" weight="0.41104296" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32936507" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32936507" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Bean Validation" order="5" weight="0.32936507" />
+      <window_info anchor="right" id="Palette" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" visible="true" weight="0.32936507" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modify the lock/unlock request" />
+    <MESSAGE value="add location mock service" />
+    <MESSAGE value="add getRiderInfo interface if the rider login through refresh token" />
+    <MESSAGE value="解锁时创建订单与行程" />
+    <MESSAGE value="修改一下命名" />
+    <MESSAGE value="添加TOPIC模式" />
+    <MESSAGE value="后台增加位置信息更新到数据库的队列" />
+    <MESSAGE value="更新一下配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新一下配置" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scooter-service-location/src/test/java/com/scooter/service/location/service/LocationServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.16/lombok-1.16.16-sources.jar!/lombok/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/charset/StandardCharsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-ws-server/src/main/java/com/scooter/ws/server/configuration/MessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="65" column="45" lean-forward="true" selection-start-line="65" selection-start-column="45" selection-end-line="65" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/mq/message/Location.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-location/src/main/java/com/scooter/service/location/configuration/MessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="36" column="66" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/ScooterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="7" column="61" lean-forward="true" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/ScooterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/ScooterEndPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/service/impl/MqServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-ws-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-location/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-location/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.6.RELEASE/spring-beans-5.0.6.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="598" column="23" selection-start-line="598" selection-start-column="23" selection-end-line="598" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-uc-server/src/main/resources/ScooterIds.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="188" column="14" selection-start-line="188" selection-start-column="14" selection-end-line="188" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/UploadCenterRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="20" column="62" lean-forward="true" selection-start-line="20" selection-start-column="62" selection-end-line="20" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-ws-sdk/src/main/java/com/scooter/ws/sdk/session/DefaultSessionStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="39" column="54" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-ws-sdk/src/main/java/com/scooter/ws/sdk/WebSocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="203" column="31" selection-start-line="203" selection-start-column="28" selection-end-line="203" selection-end-column="31" />
+          <folding>
+            <element signature="e#8358#8359#0" expanded="true" />
+            <element signature="e#8422#8423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-uc-server/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-location/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/mq/RabbitMqConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="30" column="106" selection-start-line="30" selection-start-column="101" selection-end-line="30" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-ws-server/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-ws-server/src/test/java/com/scooter/ws/sdk/transfer/ScoketTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-ws-sdk/src/main/java/com/scooter/ws/sdk/AbstractChannelHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="106" column="61" selection-start-line="106" selection-start-column="61" selection-end-line="106" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/cache/SystemCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="60" column="21" lean-forward="true" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/ScooterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="55" column="1" lean-forward="true" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/TokenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/resources/mapper/FileInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="122" column="49" selection-start-line="122" selection-start-column="20" selection-end-line="122" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/model/OrderInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="74" column="50" lean-forward="true" selection-start-line="74" selection-start-column="50" selection-end-line="74" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/resources/mapper/OrderInfoMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/mapper/OrderInfoMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/OrderInfoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#534#535#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/PaymentServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="42" column="25" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/OrderInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/MessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="77" column="48" lean-forward="true" selection-start-line="77" selection-start-column="48" selection-end-line="77" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/Schedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.31/tomcat-embed-core-8.5.31-sources.jar!/javax/servlet/http/HttpServletResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="467" column="43" selection-start-line="467" selection-start-column="28" selection-end-line="467" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/WebSecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="99" column="22" lean-forward="true" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/JwtAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="71" column="50" lean-forward="true" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/confiuration/security/UsernamePasswordAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="79" column="59" lean-forward="true" selection-start-line="79" selection-start-column="59" selection-end-line="79" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="110" column="45" lean-forward="true" selection-start-line="110" selection-start-column="45" selection-end-line="110" selection-end-column="45" />
+          <folding>
+            <element signature="e#3351#3352#0" expanded="true" />
+            <element signature="e#3426#3427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/RiderInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="163" column="5" lean-forward="true" selection-start-line="163" selection-start-column="5" selection-end-line="163" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/TripController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scooter-service-api/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>scooter-uc-sdk</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

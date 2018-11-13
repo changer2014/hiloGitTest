@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scooter-admin-server" />
+        <module name="scooter-common" />
+        <module name="scooter-service-api" />
+        <module name="scooter-service-location" />
+        <module name="scooter-service-location-client" />
+        <module name="scooter-uc-sdk" />
+        <module name="scooter-uc-server" />
+        <module name="scooter-ws-sdk" />
+        <module name="scooter-ws-server" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

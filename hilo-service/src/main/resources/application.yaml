@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: Scooter API Service
+  datasource:
+    url: jdbc:postgresql://localhost:5432/hilloDb?useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+    username: postgres
+    password: 123456
+    driver-class-name: org.postgresql.Driver
+
+server:
+  port: 10002
+  servlet:
+    context-path: /
+mybatis:
+  mapper-locations: classpath:mapper/**/*.xml
+  type-aliases-package: com.hilo.service.api.model

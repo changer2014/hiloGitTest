@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/scooter-common/src/main/java/com/scooter/common/Constant.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scooter-service-api/src/main/java/com/scooter/service/api/controller/RiderInfoController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/scooter-uc-server/src/main/java/com/scooter/uc/server/mock/schedule/DeviceManager.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

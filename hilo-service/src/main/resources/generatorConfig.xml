@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+
+    <classPathEntry
+            location="C:\Users\zhang_qianshi\.m2\repository\org\postgresql\postgresql\42.1.4\postgresql-42.1.4.jar"/>
+    <context id="tables" targetRuntime="MyBatis3">
+        <property name="javaFileEncoding" value="UTF-8"/>
+
+        <plugin
+                type="org.mybatis.generator.plugins.EqualsHashCodePlugin"/>
+
+        <commentGenerator>
+            <property name="suppressDate" value="true"/>
+            <property name="suppressAllComments" value="true"/>
+        </commentGenerator>
+        <jdbcConnection driverClass="org.postgresql.Driver"
+                        connectionURL="jdbc:postgresql://10.20.70.15:5432/scooter"
+                        userId="postgres" password="123456">
+        </jdbcConnection>
+
+        <javaTypeResolver>
+            <property name="forceBigDecimals" value="true"/>
+        </javaTypeResolver>
+
+        <javaModelGenerator
+                targetPackage="com.scooter.service.api.model"
+                targetProject="src/main/java">
+            <property name="enableSubPackages" value="true"/>
+            <property name="trimStrings" value="true"/>
+        </javaModelGenerator>
+
+        <sqlMapGenerator targetPackage="mapper"
+                         targetProject="src/main/resources">
+            <property name="enableSubPackages" value="true"/>
+        </sqlMapGenerator>
+
+        <javaClientGenerator
+                targetPackage="com.scooter.service.api.mapper"
+                targetProject="src/main/java" type="XMLMAPPER">
+            <property name="enableSubPackages" value="true"/>
+        </javaClientGenerator>
+
+        <!--<table tableName="t_coupon_info" domainObjectName="CouponInfo"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false" />-->
+        <!--</table>-->
+
+        <!--<table tableName="t_credit_card" domainObjectName="CreditCard"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false" />-->
+        <!--</table>-->
+
+        <!--<table tableName="t_file_info" domainObjectName="FileInfo"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false" />-->
+        <!--</table>-->
+
+        <table tableName="t_order_info" domainObjectName="OrderInfo"
+               enableSelectByPrimaryKey="true" enableCountByExample="false"
+               enableUpdateByExample="false" enableDeleteByExample="false"
+               enableSelectByExample="false" selectByExampleQueryId="false">
+            <property name="useActualColumnNames" value="false"/>
+        </table>
+
+        <!--<table tableName="t_payment_detail"-->
+        <!--domainObjectName="PaymentDetail" enableSelectByPrimaryKey="true"-->
+        <!--enableCountByExample="false" enableUpdateByExample="false"-->
+        <!--enableDeleteByExample="false" enableSelectByExample="false"-->
+        <!--selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false"/>-->
+        <!--</table>-->
+
+        <!--<table tableName="t_payment_info" domainObjectName="PaymentInfo"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false"/>-->
+        <!--</table>-->
+
+        <!--<table tableName="t_region_info" domainObjectName="RegionInfo"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false" />-->
+        <!--</table>-->
+
+        <!--<table tableName="t_rider_info" domainObjectName="RiderInfo"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false" />-->
+        <!--</table>-->
+
+        <!--<table tableName="t_scooter_info" domainObjectName="ScooterInfo"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false" />-->
+        <!--</table>-->
+
+        <!--<table tableName="t_scooter_state_info"-->
+        <!--domainObjectName="ScooterStateInfo" enableSelectByPrimaryKey="true"-->
+        <!--enableCountByExample="false" enableUpdateByExample="false"-->
+        <!--enableDeleteByExample="false" enableSelectByExample="false"-->
+        <!--selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false" />-->
+        <!--</table>-->
+
+        <!--<table tableName="t_trip_info" domainObjectName="TripInfo"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false"/>-->
+        <!--</table>-->
+
+        <!--<table tableName="t_user_info" domainObjectName="UserInfo"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false" />-->
+        <!--</table>-->
+
+        <!--<table tableName="t_dictionary" domainObjectName="Dictionary"-->
+        <!--enableSelectByPrimaryKey="true" enableCountByExample="false"-->
+        <!--enableUpdateByExample="false" enableDeleteByExample="false"-->
+        <!--enableSelectByExample="false" selectByExampleQueryId="false">-->
+        <!--<property name="useActualColumnNames" value="false"/>-->
+        <!--</table>-->
+
+    </context>
+
+</generatorConfiguration>
